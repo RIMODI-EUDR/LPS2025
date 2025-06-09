@@ -1,5 +1,5 @@
 
-Thünen Institute for Forestry & Federal Office for Agriculture and Food (BLE) Contributions at Living Planet Symposium 2025
+[Thünen Institute for Forestry] (https://www.thuenen.de/en/institutes/forestry) & [Federal Office for Agriculture and Food of Germany (BLE)] (https://www.ble.de/EN/BLE/ble_node.html) Contributions at Living Planet Symposium 2025
 
 This page highlights the **presentations, posters, and demos** contributed by **Thünen Institute researchers** and our **BLE partner** at the **Living Planet Symposium 2025 (23–27 June, Vienna)**.
 Browse the table below for session details, timings, and direct links to the program pages!
