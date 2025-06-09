@@ -1,4 +1,3 @@
-# LPS2025
 
 Thünen Institute for Forestry & Federal Office for Agriculture and Food (BLE) Contributions at Living Planet Symposium 2025
 
