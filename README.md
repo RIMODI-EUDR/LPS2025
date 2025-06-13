@@ -3,11 +3,6 @@
 This page highlights the **presentations, posters, and demos** contributed by Thünen Institute researchers and our BLE partner at the **Living Planet Symposium 2025 (23–27 June, Vienna)**.  
 Browse the table below for session details, timings, and direct links to the program pages!
 
-[Thünen Institute for Forestry](https://www.thuenen.de/en/institutes/forestry) & [Federal Office for Agriculture and Food of Germany (BLE)](https://www.ble.de/EN/BLE/ble_node.html) Contributions at Living Planet Symposium 2025
-
-This page highlights the **presentations, posters, and demos** contributed by Thünen Institute researchers and our BLE partner at the **Living Planet Symposium 2025 (23–27 June, Vienna)**.  
-Browse the table below for session details, timings, and direct links to the program pages!
-
 | Type            | Name                       | Title                                                                                                    | Session                                                                                         | Date & Time                           | Program Link                                                                                                   | Project Name Abbreviation               |
 |-----------------|----------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | 📢 Presentation | Juliana Freitas Beyer et al | Are Freely Accessible Global Forest Maps Suitable as Reference Tools for EUDR Compliance in Deforestation Monitoring? | F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115) - PART 1. | Tuesday, Jun 24, 2025 • 14:00 - 15:30  | [Link](https://lps25.esa.int/programme/programme-session/?id=DACFE14A-66AA-4182-BAEA-98DCF53F8557&presentationId=2F87970F-49E8-445E-B722-7310C35DD996) | [GEOS-EUDR](https://www.thuenen.de/de/fachinstitute/waldwirtschaft/projekte-liste/waldwirtschaft-weltweit/geos-eudr-1) |
